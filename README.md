@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @JuzoSp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE Html>
+    <html>
+       <meta charset="utf-8" />
+            <head>
+            👋 Hi, I’m Juzo
+- 👀 I’m interested in softwar technologies and coding 
+- 🌱 I’m currently learning front-end developpement
+              <img src="hello.jpg"/> 
+            </head>
+    </html>
+       
+    
 
 <!---
 JuzoSp/JuzoSp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
