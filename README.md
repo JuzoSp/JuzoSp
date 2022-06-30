@@ -2,7 +2,7 @@
     <html>
        <meta charset="utf-8" />
             <head>
-       <p>👋 Hi, I’m Juzo<br/>👀 I’m interested in softwar technologies and coding <br/>🌱 I’m currently learning front-end developpement</p>
+       <p>👋 Hi, I’m Juzo<br/>👀 I’m interested in software technologies and coding <br/>🌱 I’m currently learning front-end developpement</p>
               <img src="hello.jpg"/> 
             </head>
     </html>
